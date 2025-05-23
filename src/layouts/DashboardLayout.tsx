@@ -19,7 +19,7 @@ export function DashboardLayout() {
     setMobileMenuOpen(!mobileMenuOpen);
   };
 
-  // Show loading state
+  // Show loading states
   if (isLoading) {
     return (
       <div className="flex items-center justify-center min-h-screen">
@@ -43,7 +43,7 @@ export function DashboardLayout() {
 
   return (
     <div className="flex min-h-screen">
-      {/* Mobile overlay */}
+      {/* Mobile overlay section */}
       {mobileMenuOpen && (
         <div 
           className="fixed inset-0 z-30 bg-background/80 backdrop-blur-sm md:hidden"
@@ -51,7 +51,7 @@ export function DashboardLayout() {
         />
       )}
 
-      {/* Sidebar */}
+      {/* Sidebar section */}
       <div className={`${mobileMenuOpen ? "block" : "hidden"} md:block`}>
         <DashboardSidebar
           collapsed={collapsed}
@@ -59,7 +59,7 @@ export function DashboardLayout() {
         />
       </div>
 
-      {/* Main content */}
+      {/* Main content section */}
       <div className={`flex flex-col flex-1 ${collapsed ? "md:ml-20" : "md:ml-64"}`}>
         <DashboardHeader onMenuClick={toggleMobileMenu} />
         <main className="flex-1 p-6">
