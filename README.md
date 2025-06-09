@@ -18,6 +18,16 @@ Class Sync is a web application designed to synchronize, organize, and manage cl
 - Backend: (e.g., Node.js, Express)
 - Authentication: (e.g., JWT, OAuth)
 
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+- 
 _Replace the above with your actual tech stack._
 
 ## Installation
