@@ -14,11 +14,9 @@ Class Sync is a web application designed to synchronize, organize, and manage cl
 
 ## Technologies Used
 
-- Frontend: (e.g., React, Angular, Vue.js)
-- Backend: (e.g., Node.js, Express, Django, Flask)
-- Database: (e.g., MongoDB, PostgreSQL, MySQL)
+- Frontend: (e.g., React)
+- Backend: (e.g., Node.js, Express)
 - Authentication: (e.g., JWT, OAuth)
-- Other Tools/Libraries: (e.g., Socket.io for real-time, Redux, etc.)
 
 _Replace the above with your actual tech stack._
 
