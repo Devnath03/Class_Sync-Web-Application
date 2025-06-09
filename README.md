@@ -55,20 +55,11 @@ _Adapt these steps for your setup (frontend/backend separation, Docker, etc.)_
 
 Please ensure your code follows the project's coding standards and includes relevant tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-Developed and maintained by [Devnath03](https://github.com/Devnath03).## What technologies are used for this project?
+Developed and maintained by [Devnath03](https://github.com/Devnath03).
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 
