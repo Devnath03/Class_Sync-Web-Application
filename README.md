@@ -2,7 +2,6 @@
 Class Sync is a web application designed to synchronize, organize, and manage classroom activities, schedules, assignments, and communications. It aims to streamline the educational process for students, teachers, and administrators by providing a unified platform for collaboration.
 
 ## Features
-
 - User authentication and role-based access (students, teachers, admins)
 - Class scheduling and calendar management
 - Assignment creation, submission, and grading
