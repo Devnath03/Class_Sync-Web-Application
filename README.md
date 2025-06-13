@@ -23,7 +23,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-- 
+
 _Replace the above with your actual tech stack._
 
 ## Installation
