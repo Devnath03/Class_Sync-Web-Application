@@ -11,7 +11,6 @@ Class Sync is a web application designed to synchronize, organize, and manage cl
 - Dashboard overview for each user role
 
 ## Technologies Used
-
 - Frontend: (e.g., React)
 - Backend: (e.g., Node.js, Express)
 - Authentication: (e.g., JWT, OAuth)
