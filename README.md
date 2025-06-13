@@ -18,7 +18,6 @@ Class Sync is a web application designed to synchronize, organize, and manage cl
 ## What technologies are used for this project?
 
 This project is built with:
-
 - Vite
 - TypeScript
 - React
