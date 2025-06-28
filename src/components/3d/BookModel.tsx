@@ -15,11 +15,11 @@ export function BookModel() {
         const THREE = await import('three');
         const { OrbitControls } = await import('three/examples/jsm/controls/OrbitControls.js');
         
-        // Create scene
+        // Create scene Here
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0xf5f5f5);
         
-        // Create camera
+        // Create camera For Back
         const camera = new THREE.PerspectiveCamera(75, mountRef.current!.clientWidth / mountRef.current!.clientHeight, 0.1, 1000);
         camera.position.set(0, 0, 3);
         
